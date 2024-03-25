@@ -7,7 +7,7 @@ Hannah Ganeriwal [@hannahganeriwal](https://github.com/hannahganeriwal)
 
 Luke Liu [@lukel04](https://github.com/lukel04)
 
-Robert Black 
+Robert Black [@robertblack11](https://github.com/robertblack11)
 
 Sarah Kirk [@sarahkirk03](https://github.com/sarahkirk03)
 
