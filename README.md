@@ -111,11 +111,12 @@ Efficient team operations and logistics will be ensured through the management o
 
 ### Query 2
 
-<img width="581" alt="Query 2" src="https://github.com/hannahganeriwal/MIST4610-Project-1--Group-6/assets/152109984/fbec1f22-9858-4f19-8655-cf46d14e5c73">
+<img width="770" alt="image" src="https://github.com/hannahganeriwal/MIST4610-Project-1--Group-6/assets/152109984/0f91a90b-d028-4129-a085-d4126bee222a">
 
 
 ### Query 3 
 
+<img width="632" alt="image" src="https://github.com/hannahganeriwal/MIST4610-Project-1--Group-6/assets/152109984/531d3aab-a7fd-4813-b759-4de440b5f897">
 
 
 ### Query 4
