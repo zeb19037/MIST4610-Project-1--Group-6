@@ -15,12 +15,15 @@ Wyatt Bewley
 Zachary Bowles
 
 
+
 Prompt Used: 
+
 Pretend you are the owner/operator of a college football team needing to build a relational database. You hired some students from the MIST 4610 class at the University of Georgia to create the database for you. They need to know more about your organization to identify which entities, attributes, and relationships are important for you. Start by describing your business as a real client
 
 
 
 Scenario from ChatGPT: 
+
 You are the owner/operator of a college football team, the Bulldogs, at a prestigious university. With a rich history of success on the field and a commitment to academic excellence, your football program is integral to the university's identity. As the owner, you understand the importance of building a comprehensive relational database to streamline operations and support the development of your student-athletes.
 
 You've hired a team of students from the MIST 4610 class at the University of Georgia to create the database for you. To help them understand your organization, you provide insights into key aspects of your football program:
@@ -29,6 +32,7 @@ You've hired a team of students from the MIST 4610 class at the University of Ge
 
 
 Entities:
+
 
 Players
 Coaches
