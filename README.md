@@ -16,6 +16,7 @@ Wyatt Bewley
 Zachary Bowles
 
 
+![test img](https://github.com/hannahganeriwal/MIST4610-Project-1--Group-6/assets/163012154/5481b4e1-93a3-40fb-a486-b179834b0415)
 
 Prompt Used: 
 
