@@ -70,11 +70,11 @@ Efficient team operations and logistics will be ensured through the management o
 
 (INSERT DESCRIPTION HERE)
 
-(INSERT DATA MODEL HERE)
+![Data Model GitHub](https://github.com/hannahganeriwal/MIST4610-Project-1--Group-6/assets/152109984/dc75944e-2c2f-468d-bb13-e8ce038f659a)
 
 ## Data Dictionary: 
 
-![Data Model GitHub](https://github.com/hannahganeriwal/MIST4610-Project-1--Group-6/assets/152109984/dc75944e-2c2f-468d-bb13-e8ce038f659a)
+
 
 
 
