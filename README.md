@@ -37,29 +37,29 @@ You've hired a team of students from the MIST 4610 class at the University of Ge
 ## Entities:
 
 
-Players
+1. Players
 
-Coaches
+2. Coaches
 
-Injury Type
+3. Injury Type
 
-Injury
+4. Injury
 
-Academic Advisors
+5. Academic Advisors
 
-Facility
+6. Facility
 
-Training Session
+7. Training Session
 
-Equipment
+8. Equipment
 
-Player Schedule
+9. Player Schedule
 
-Position
+10. Position
 
-NIL
+11. NIL
 
-NIL Contract
+12. NIL Contract
 
 
 As the owner/operator of the Bulldogs football team, you're spearheading the implementation of a comprehensive relational database system to optimize team performance and support the development of your student-athletes. This database will efficiently manage essential aspects of the football program, including player management with detailed player information such as name, position, eligibility status, and academic standing, as well as coach details encompassing names, positions, and experience. Additionally, training schedules, workout routines, and medical records will be meticulously organized to optimize player performance and minimize injury risk during training sessions. Game planning and analysis will benefit from data on upcoming matchups and opponent details. Efficient team operations and logistics will be ensured through the management of practice facilities, equipment inventory, and usage. Academic support services for student-athletes will be facilitated by tracking academic advisor information, while injury prevention and management will be supported through the tracking of player injuries, treatments, and severity levels. By centralizing critical data and streamlining operations, this relational database will contribute to the continued success and excellence of the Bulldogs' football program.
