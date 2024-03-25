@@ -66,4 +66,10 @@ As the owner/operator of the Bulldogs football team, you're spearheading the imp
 
 Efficient team operations and logistics will be ensured through the management of practice facilities, equipment inventory, and usage. Academic support services for student-athletes will be facilitated by tracking academic advisor information, while injury prevention and management will be supported through the tracking of player injuries, treatments, and severity levels. By centralizing critical data and streamlining operations, this relational database will contribute to the continued success and excellence of the Bulldogs' football program.
 
+## Data Model and Description 
+
+(INSERT DESCRIPTION HERE)
+
+(INSERT DATA MODEL HERE)
+
 
