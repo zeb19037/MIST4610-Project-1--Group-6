@@ -98,9 +98,10 @@ Efficient team operations and logistics will be ensured through the management o
 <img width="726" alt="AcademicAdvisor Table" src="https://github.com/hannahganeriwal/MIST4610-Project-1--Group-6/assets/152109984/7630e5c4-1958-4f84-bffb-87f896327bc4">
 
 
-## Query Matrix 
+## Query Matrix: 
 
 <img width="778" alt="Query Matrix" src="https://github.com/hannahganeriwal/MIST4610-Project-1--Group-6/assets/152109984/21d4442b-2c80-4d10-8ac7-afb98bda1151">
+
 
 ## Queries 
 
@@ -143,5 +144,11 @@ Efficient team operations and logistics will be ensured through the management o
 ### Query 10 
 
 <img width="832" alt="image" src="https://github.com/hannahganeriwal/MIST4610-Project-1--Group-6/assets/152109984/6f192551-80b7-4750-b87a-9d68383b7efb">
+
+
+## Database Information: 
+
+Name of the Database: ns_Sp24_61608_Group6
+
 
 
