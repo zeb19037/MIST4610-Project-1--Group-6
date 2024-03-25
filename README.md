@@ -5,7 +5,7 @@
 
 Hannah Ganeriwal @hannahganeriwal
 
-Luke Liu @lukel04
+Luke Liu [@lukel04](https://github.com/lukel04)
 
 Robert Black 
 
