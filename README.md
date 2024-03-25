@@ -34,7 +34,7 @@ You've hired a team of students from the MIST 4610 class at the University of Ge
 
 
 
-## Entities:
+### Entities:
 
 
 1. Players
