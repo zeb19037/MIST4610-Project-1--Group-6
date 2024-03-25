@@ -98,3 +98,30 @@ Efficient team operations and logistics will be ensured through the management o
 <img width="726" alt="AcademicAdvisor Table" src="https://github.com/hannahganeriwal/MIST4610-Project-1--Group-6/assets/152109984/7630e5c4-1958-4f84-bffb-87f896327bc4">
 
 
+## Query Matrix 
+
+<img width="778" alt="Query Matrix" src="https://github.com/hannahganeriwal/MIST4610-Project-1--Group-6/assets/152109984/21d4442b-2c80-4d10-8ac7-afb98bda1151">
+
+## Queries 
+
+# Query 1
+
+# Query 2
+
+# Query 3 
+
+# Query 4
+
+# Query 5 
+
+# Query 6 
+
+# Query 7 
+
+# Query 8 
+
+# Query 9 
+
+# Query 10 
+
+
