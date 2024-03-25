@@ -1,19 +1,19 @@
 # MIST4610-Project-1--Group-6
 
-## Names: 
+## Team Member Names: 
 
 
 Hannah Ganeriwal @hannahganeriwal
 
-Luke Liu
+Luke Liu @lukel04
 
 Robert Black 
 
-Sarah Kirk
+Sarah Kirk @sarahkirk03
 
-Wyatt Bewley
+Wyatt Bewley @wsb38150
 
-Zachary Bowles
+Zachary Bowles @zeb19037
 
 
 
