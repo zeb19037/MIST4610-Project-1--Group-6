@@ -75,6 +75,11 @@ Efficient team operations and logistics will be ensured through the management o
 ## Data Dictionary: 
 <img width="723" alt="Matches Table" src="https://github.com/hannahganeriwal/MIST4610-Project-1--Group-6/assets/152109984/543fc2e7-426e-490a-aa47-5ccc69864929">
 
+<img width="723" alt="PlayerSchedule Table" src="https://github.com/hannahganeriwal/MIST4610-Project-1--Group-6/assets/152109984/29ca0b97-14c0-4e79-be55-ce4386b06e36">
+
+<img width="595" alt="Players Table" src="https://github.com/hannahganeriwal/MIST4610-Project-1--Group-6/assets/152109984/74acca18-e74b-4573-80de-9ee05ed860f0">
+
+
 
 
 
