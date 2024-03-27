@@ -3,17 +3,17 @@
 ## Team Member Names: 
 
 
-Hannah Ganeriwal [@hannahganeriwal](https://github.com/hannahganeriwal)
+Hannah Ganeriwal [@hannahganeriwal](https://github.com/hannahganeriwal/MIST4610-Project-1--Group-6)
 
-Luke Liu [@lukel04](https://github.com/lukel04)
+Luke Liu [@lukel04](https://github.com/lukel04/MIST4610-Project-1--Group-6)
 
-Robert Black [@robertblack11](https://github.com/robertblack11)
+Robert Black [@robertblack11](https://github.com/robertblack11/MIST4610-Project-1--Group-6)
 
 Sarah Kirk [@sarahkirk03](https://github.com/sarahkirk03)
 
 Wyatt Bewley [@wsb38150](https://github.com/wsb38150)
 
-Zachary Bowles [@zeb19037](https://github.com/zeb19037)
+Zachary Bowles [@zeb19037](https://github.com/zeb19037/MIST4610-Project-1--Group-6)
 
 
 
